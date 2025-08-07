@@ -110,7 +110,7 @@ My handpicked **[Arch Linux + Sway]** Window Manager Environment — minimal, ke
 ## 💤 Idle Behavior
 
 - Lock after **5 minutes**  
-- Turn off display after **10 minutes**  
+- Turn off display after **6 minutes**  
 - Lock before sleep ✅
 
 ---
